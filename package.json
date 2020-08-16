@@ -2,7 +2,7 @@
   "name": "dependabot-config",
   "private": true,
   "scripts": {
-    "test": "markdownlint **/*.md --ignore node_modules",
+    "test": "markdownlint **/*.md --ignore node_modules"
   },
   "devDependencies": {
     "markdownlint-cli": "^0.23.2"
