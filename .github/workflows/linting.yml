@@ -14,4 +14,3 @@ jobs:
       - uses: xt0rted/markdownlint-problem-matcher@v1
       - run: npm i
       - run: npm test
-      - run: markdownlint **/*.md
